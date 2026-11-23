@@ -1,0 +1,17 @@
+dataType nameOfVariable = value;
+
+value will decide the data type
+
+Primitive Data Type [we don't need object to use them/we know in advance how much memory they will consume]
+[byte, short, int, long], [float, double], char, boolean
+
+Integer Number   --> [byte(127  to -128), short, int, long]
+Decimal Number   --> [float, double]
+single character --> char
+Boolean Value    --> boolean
+
+
+
+
+Non- Primitive data type [we need object to use them/we don't know in advance how much memory they will consume]
+String, array.....
