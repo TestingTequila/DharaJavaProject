@@ -1,4 +1,6 @@
-public class DayOne {
+package Day1;
+
+public class Day1 {
 
     static void main() {
         // 10
@@ -38,6 +40,9 @@ public class DayOne {
 
         System.out.println(f1);
         System.out.println(d1);
+
+
+
 
 
     }
